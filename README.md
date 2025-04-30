@@ -62,4 +62,5 @@ The development of the Amazon Sales Dashboard followed a structured analytical a
 - Saved and exported the dashboard for sharing and presentation.
 
 ##Dashboard
-![Screenshot 2025-04-30 081548](https://github.com/user-attachments/assets/558f75b9-7b0f-4ce4-a7ad-6a1020f5b4e4)
+![Screenshot 2025-04-30 085839](https://github.com/user-attachments/assets/dab9b8c8-c6b2-43c3-ad60-92a9ebd7b256)
+
