@@ -7,16 +7,27 @@ Interactive Excel dashboard analyzing Amazon’s 2024 sales across 23 Indian cit
 - <a href="https://github.com/AayushKumar113/Data-Analysis-Dashboard/blob/main/Sales%20Data.xlsx">Dataset</a>
 
 ##Questions (KPIs)
+
 -What is the total revenue generated in 2024?
+
 -How many total units were sold across all cities?
+
 -How many unique cities contributed to the overall sales?
+
 -Which city recorded the highest sales in 2024?
+
 -Which state had the highest total sales and why might that be the case?
+
 -What percentage of the target revenue was achieved?
+
 -What is the average sales per city?
+
 -Which cities had below-average sales performance?
+
 -How does the sales distribution vary across different cities?
+
 -What percentage of units sold target was achieved?
+
 
 -Dashboard Interaction <a href="https://github.com/AayushKumar113/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-30%20081548.png">View Dashboard</a>
 
