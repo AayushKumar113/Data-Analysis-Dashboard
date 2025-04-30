@@ -1,6 +1,6 @@
 #Amazon-Sales-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
-###🔍 Project Description
+##🔍 Project Description
 Interactive Excel dashboard analyzing Amazon’s 2024 sales across 23 Indian cities and states. It features KPIs, sales trends, and a geo-visual map. Built using Excel tools like Pivot Tables, Charts, and conditional formatting.
 
 ###🛠️ Tools Used
